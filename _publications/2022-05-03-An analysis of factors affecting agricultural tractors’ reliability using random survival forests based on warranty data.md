@@ -6,7 +6,7 @@ excerpt: 'Based on warranty data from an agricultural machinery manufacturing co
 date: 2022-05-03
 venue: 'IEEE Access'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9766307'
-citation: 'ZhiLin Zhao, HengJie Yu and Fang Cheng. An analysis of factors affecting agricultural tractors’ reliability using random survival forests based on warranty data. IEEE Access, 2022, 10, 50183-50194.'
+citation: 'Zhilin Zhao, Hengjie Yu and Fang Cheng. An analysis of factors affecting agricultural tractors’ reliability using random survival forests based on warranty data. IEEE Access, 2022, 10, 50183-50194.'
 year: 2022
 ---
 
