@@ -21,7 +21,7 @@ I have authored seven publications and co-authored several publications in inter
 
 
 ## News
-Congratulations to Prof. Yaochu Jin for winning the [IEEE Frank Rosenblatt Award](https://corporate-awards.ieee.org/recipients/current-recipients/)!!!
+Congratulations to Prof. Yaochu Jin for winning the [2025 IEEE Frank Rosenblatt Award](https://corporate-awards.ieee.org/recipients/current-recipients/)!!!
 
 [Optimizing benefit-risk trade-off in nano-agrochemicals through explainable machine learning: Beyond concentration](https://pubs.rsc.org/en/content/articlelanding/2024/en/d4en00213j)，Our article is now online in Environmental Science: Nano！
 
