@@ -3,7 +3,7 @@ title: "Optimizing benefit-risk trade-off in nano-agrochemicals through explaina
 collection: publications
 permalink: /publication/2024-06-25-Optimizing benefit-risk trade-off in nano-agrochemicals through explainable machine learning - Beyond concentration
 excerpt: 'This work presented the averaging strategy for interpretable machine learning to understand the uptake and translocation of nanoparticles in crop seedlings after seed nanotreatment.'
-date: 2023-08-18
+date: 2024-06-25
 venue: 'Environmental Science: Nano'
 paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2024/en/d4en00213j'
 citation: 'Hengjie Yu, Shiyu Tang, Eslam M. Hamed, Sam F. Y. Li, Yaochu Jin, Fang Cheng. Optimizing Benefit-Risk Trade-Off in Nano-Agrochemicals through Explainable Machine Learning: Beyond Concentration. Environmental Science:Nano, 2024, DOI: 10.1039/D4EN00213J.'
