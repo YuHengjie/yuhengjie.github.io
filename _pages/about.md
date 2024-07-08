@@ -17,6 +17,8 @@ During my time at the National University of Singapore, I expanded my expertise 
 
 Currently, I find myself increasingly drawn to the exciting realm of AI for Science. Witnessing how artificial intelligence is reshaping scientific research, I aspire to contribute to this evolving landscape. If you have ideas or projects that align with these interests, please do not hesitate to connect with me. I am always open to collaboration and eager to learn from others in this vibrant community.
 
+I have authored seven publications and co-authored several publications in international peer review journals, please see [Publication](https://yuhengjie.github.io/publications/) for more details.
+
 
 ## News
 Congratulations to Prof. Yaochu Jin for winning the [IEEE Frank Rosenblatt Award](https://corporate-awards.ieee.org/recipients/current-recipients/)!!!
