@@ -2,7 +2,7 @@
 title: "Optimizing benefit-risk trade-off in nano-agrochemicals through explainable machine learning: Beyond concentration"
 collection: publications
 permalink: /publication/2024-06-25-Optimizing benefit-risk trade-off in nano-agrochemicals through explainable machine learning - Beyond concentration
-excerpt: 'This work presented the averaging strategy for interpretable machine learning to understand the uptake and translocation of nanoparticles in crop seedlings after seed nanotreatment.'
+excerpt: 'This work presented an explainable machine learning-driven multi-objective optimization approach to maximize the performance and minimize undesirable implications of seed nanopriming.'
 date: 2024-06-25
 venue: 'Environmental Science: Nano'
 paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2024/en/d4en00213j'
