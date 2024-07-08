@@ -12,7 +12,6 @@ author_profile: true
 {% include base_path %}
 
 
-
 # 2024
 
 {% for post in site.publications reversed %}
@@ -21,41 +20,29 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
+
 # 2023
 
-{% for post in sorted_posts %}
-  {% assign post_year = post.date | date: "%Y" %}
-  {% if post_year != current_year %}
-    {% assign current_year = post_year %}
-      {% if current_year == 2023 %}
-        {% include archive-single.html %}
-      {% endif %}
+{% for post in site.publications reversed %}
+  {% if post.year == 2023 %}
+    {% include archive-single.html %}
   {% endif %}
-  {% include archive-single.html %}
 {% endfor %}
+
 
 # 2022
 
-{% for post in sorted_posts %}
-  {% assign post_year = post.date | date: "%Y" %}
-  {% if post_year != current_year %}
-    {% assign current_year = post_year %}
-      {% if current_year == 2022 %}
-        {% include archive-single.html %}
-      {% endif %}
+{% for post in site.publications reversed %}
+  {% if post.year == 2022 %}
+    {% include archive-single.html %}
   {% endif %}
-  {% include archive-single.html %}
 {% endfor %}
+
 
 # 2021
 
-{% for post in sorted_posts %}
-  {% assign post_year = post.date | date: "%Y" %}
-  {% if post_year != current_year %}
-    {% assign current_year = post_year %}
-      {% if current_year == 2021 %}
-        {% include archive-single.html %}
-      {% endif %}
+{% for post in site.publications reversed %}
+  {% if post.year == 2021 %}
+    {% include archive-single.html %}
   {% endif %}
-  {% include archive-single.html %}
 {% endfor %}
