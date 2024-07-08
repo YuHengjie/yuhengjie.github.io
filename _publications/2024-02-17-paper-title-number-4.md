@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 4"
+title: "Averaging strategy for interpretable machine learning on small datasets to understand element uptake after seed nanotreatment"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2023-08-18-Averaging strategy for interpretable machine learning on small datasets to understand element uptake after seed nanotreatment
+excerpt: 'This work presented the averaging strategy for interpretable machine learning to understand the uptake and translocation of nanoparticles in crop seedlings after seed nanotreatment.'
+date: 2023-08-18
+venue: 'Environmental Science & Technology'
+paperurl: 'https://pubs.acs.org/doi/full/10.1021/acs.est.3c01878'
+citation: 'Hengjie Yu, Shiyu Tang, Sam F. Y. Li, Fang Cheng*. Averaging Strategy for Interpretable Machine Learning on Small Datasets to Understand Element Uptake after Seed Nanotreatment. Environmental Science & Technology, 2023, 57(34): 12760-12770.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
