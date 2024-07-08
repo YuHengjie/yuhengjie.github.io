@@ -1,7 +1,7 @@
 ---
 title: "Optimizing benefit-risk trade-off in nano-agrochemicals through explainable machine learning: Beyond concentration"
 collection: publications
-permalink: /publication/2024-06-25-Optimizing benefit-risk trade-off in nano-agrochemicals through explainable machine learning - Beyond concentration
+permalink: /publication/2024-06-25-Optimizing benefit-risk trade-off in nano-agrochemicals through explainable machine learning:Beyond concentration
 excerpt: 'This work presented an explainable machine learning-driven multi-objective optimization approach to maximize the performance and minimize undesirable implications of seed nanopriming.'
 date: 2024-06-25
 venue: 'Environmental Science: Nano'

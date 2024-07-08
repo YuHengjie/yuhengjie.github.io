@@ -1,0 +1,13 @@
+---
+title: "An analysis of factors affecting agricultural tractors’ reliability using random survival forests based on warranty data"
+collection: publications
+permalink: /publication/2022-05-03-An analysis of factors affecting agricultural tractors’ reliability using random survival forests based on warranty data
+excerpt: 'Based on warranty data from an agricultural machinery manufacturing company in China, random survival forests (RSF), which is a machine learning method for survival analysis and provides various interpretation tools, was applied for reliability modeling in this study.'
+date: 2022-05-03
+venue: 'IEEE Access'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9766307'
+citation: 'ZhiLin Zhao, HengJie Yu and Fang Cheng. An analysis of factors affecting agricultural tractors’ reliability using random survival forests based on warranty data. IEEE Access, 2022, 10, 50183-50194.'
+year: 2022
+---
+
+Warranty data are a valuable and easily accessible data source for manufacturers to assess the reliability of products in the field. Knowledge about the relationships between products’ reliability and reliability factors is beneficial for manufacturers to improve products’ quality. For this motivation, based on warranty data from an agricultural machinery manufacturing company in China, random survival forests (RSF), which is a machine learning method for survival analysis and provides various interpretation tools, was applied for reliability modeling in this study. The model’s performance was assessed by the Harrell’s concordance index (C-index) and the integrated Brier score (IBS). Thirty-four factors from production and operation were collected. Nine most important and meaningful factors were selected to show their marginal effects and interaction effects, according to which decision rules for identifying high-risk products were extracted using classification trees. The results showed that the RSF model trained by considering the observed times as the age (C-index = 0.88, IBS = 0.089) outperformed that trained by considering the observed times as the usage (C-index = 0.83, IBS = 0.15); most of the nine factors, such as “Usage Rate”, had nonlinear impacts on the reliability of tractors; the marginal effects and interaction effects can be used to generate decision rules that can significantly separate high-risk products from the population. This work provides new insights for agricultural machinery manufacturers to understand their products’ reliability and make reliability improvement plans and marketing plans.
