@@ -15,17 +15,11 @@ author_profile: true
 
 # 2024
 
-{% for post in sorted_posts %}
-  {% assign post_year = post.date | date: "%Y" %}
-  {% if post_year != current_year %}
-    {% assign current_year = post_year %}
-      {% if current_year == 2024 %}
-        {% include archive-single.html %}
-      {% endif %}
+{% for post in site.publications reversed %}
+  {% if post.year == 2024 %}
+    {% include archive-single.html %}
   {% endif %}
-  {% include archive-single.html %}
 {% endfor %}
-
 
 # 2023
 
