@@ -12,8 +12,7 @@ author_profile: true
 {% include base_path %}
 
 
-# 2024
-
+## 2024
 {% for post in site.publications reversed %}
   {% if post.year == 2024 %}
     {% include archive-single.html %}
@@ -21,8 +20,7 @@ author_profile: true
 {% endfor %}
 
 
-# 2023
-
+## 2023
 {% for post in site.publications reversed %}
   {% if post.year == 2023 %}
     {% include archive-single.html %}
@@ -30,8 +28,7 @@ author_profile: true
 {% endfor %}
 
 
-# 2022
-
+## 2022
 {% for post in site.publications reversed %}
   {% if post.year == 2022 %}
     {% include archive-single.html %}
@@ -39,8 +36,7 @@ author_profile: true
 {% endfor %}
 
 
-# 2021
-
+## 2021
 {% for post in site.publications reversed %}
   {% if post.year == 2021 %}
     {% include archive-single.html %}
