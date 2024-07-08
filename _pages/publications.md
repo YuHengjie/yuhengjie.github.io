@@ -11,8 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+<div style="margin-top: 0; margin-bottom: 40px;"></div>  
 
 ## 2024
+<div style="margin-top: 0; margin-bottom: 20px;"></div>  
 {% for post in site.publications reversed %}
   {% if post.year == 2024 %}
     {% include archive-single.html %}
@@ -21,6 +23,7 @@ author_profile: true
 
 
 ## 2023
+<div style="margin-top: 0; margin-bottom: 20px;"></div>  
 {% for post in site.publications reversed %}
   {% if post.year == 2023 %}
     {% include archive-single.html %}
@@ -29,6 +32,7 @@ author_profile: true
 
 
 ## 2022
+<div style="margin-top: 0; margin-bottom: 20px;"></div>  
 {% for post in site.publications reversed %}
   {% if post.year == 2022 %}
     {% include archive-single.html %}
@@ -37,6 +41,7 @@ author_profile: true
 
 
 ## 2021
+<div style="margin-top: 0; margin-bottom: 20px;"></div> 
 {% for post in site.publications reversed %}
   {% if post.year == 2021 %}
     {% include archive-single.html %}
