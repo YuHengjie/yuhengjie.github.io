@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* 2019.09 - 2024.06:  Ph.D in Engineering,  College of Biosystems Engineering and Food Science,Zhejiang University 
-* 2023.01 - 2024.01:  Visiting Ph.D. student in Chemistry, Department of Chemistry, National University of Singapore
-* 2015.09 - 2019.06:  Bachelor of Engineering, School of Mechanical Engineering, North University of China
+* 2019.09 - 2024.06:  Ph.D.,  College of Biosystems Engineering and Food Science,Zhejiang University 
+* 2023.01 - 2024.01:  Visiting Ph.D. student, Department of Chemistry, National University of Singapore
+* 2015.09 - 2019.06:  Bachelor, School of Mechanical Engineering, North University of China
 
 Work experience
 ======
