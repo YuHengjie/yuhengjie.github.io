@@ -25,3 +25,6 @@ Congratulations to Prof. Yaochu Jin for winning the [2025 IEEE Frank Rosenblatt 
 
 [Optimizing benefit-risk trade-off in nano-agrochemicals through explainable machine learning: Beyond concentration](https://pubs.rsc.org/en/content/articlelanding/2024/en/d4en00213j)，Our article is now online in Environmental Science: Nano！
 
+## Contact
+Email: yuhengjie@westlake.edu.cn
+
