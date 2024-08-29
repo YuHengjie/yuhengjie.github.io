@@ -11,7 +11,7 @@ redirect_from:
 Hi! I am a postdoc at Schoole of Engineering, Westlake University in Hangzhou under my advisor [Prof. Yaochu Jin](https://en.westlake.edu.cn/faculty/yaochu-jin.html). I earned my Ph.D. degree in Engineering from College of Biosystems Engineering and Food Science, Zhejiang University in 2024 under my advisor [Prof. Fang Cheng](https://person.zju.edu.cn/en/fcheng). From January 2023 to January 2024, I was a full-time visiting Ph.D. student at the Department of Chemistry, National University of Singapore under my advisor [Prof. Sam F. Y. Li](https://www.samlilab.com/).
 
 ## Research experience
-While at Zhejiang University, my research interests were rooted in explainable AI applied to nano-plant-environment interactions and nano-enabled agriculture. These areas allowed me to combine my passion for computational methods with real-world agricultural challenges.
+While at Zhejiang University, my research interests were rooted in explainable AI applied to nano-plant-environment interactions and nano-enabled agriculture. These areas allowed me to combine my passion for computational methods with real-world challenges in the agricuture and ecosystem.
 
 During my time at the National University of Singapore, I expanded my expertise by exploring the integration of explainable AI with metabolomics and environmental chemistry. This exploration was a fascinating journey into understanding complex biological and chemical processes through explainable data-driven insights.
 
