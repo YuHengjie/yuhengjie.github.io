@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+## Profile
+Dr Yu has a multidisciplinary research background spanning nanomaterials, biology, agriculture, and environmental science. Currently, he focuses on (explainable) AI for Science, particularly in the areas of nanotheranostics, nano-enabled agriculture, and explainable functional prediction of biomacromolecules. His work aims to integrate domain knowledge with cutting-edge AI algorithms to establish foundational models for these fields, enhancing the understanding of interactions between nanomaterials, biological systems, and biomacromolecules. This research seeks to promote the safe and efficient application of nanotechnology in therapeutic and agricultural contexts.
+
 ## Education background
 Hi! I am a postdoc at Schoole of Engineering, Westlake University in Hangzhou under my advisor [Prof. Yaochu Jin](https://en.westlake.edu.cn/faculty/yaochu-jin.html). I earned my Ph.D. degree in Engineering from College of Biosystems Engineering and Food Science, Zhejiang University in 2024 under my advisor [Prof. Fang Cheng](https://person.zju.edu.cn/en/fcheng). From January 2023 to January 2024, I was a full-time visiting Ph.D. student at the Department of Chemistry, National University of Singapore under my advisor [Prof. Sam F. Y. Li](https://www.samlilab.com/).
 
