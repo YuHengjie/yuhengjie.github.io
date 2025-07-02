@@ -16,9 +16,9 @@ Dr. Yu is an Assistant Researcher and Postdoc Fellow in the Department of AI, Sc
 ## Research experience
 Dr. Yu's research initially focused on XAI for nano-plant-environment interactions and nano-enabled agriculture at Zhejiang University. His expertise expanded to integrate XAI with chemistry during his time at the National University of Singapore.
 
-Currently, Dr. Yu is dedicated to AI for Science, specifically applying XAI to challenges in nanotherapeutics, nanoagriculture, and the functional prediction of biomacromolecules. His work synergizes domain knowledge with advanced AI to create datasets and foundational models, aiming to enhance our understanding of nanomaterial and biosystem interactions for safe and efficient applications in healthcare and sustainable agriculture.
+Currently, he is dedicated to AI for Science, specifically applying XAI to challenges in nanotherapeutics, nanoagriculture, and the functional prediction of biomacromolecules. His work synergizes domain knowledge with advanced AI to create datasets and foundational models, aiming to enhance our understanding of nanomaterial and biosystem interactions for safe and efficient applications in healthcare and sustainable agriculture.
 
-He has authored/co-authored over ten publications in international peer-reviewed journals. More details are available in his [Publications](https://yuhengjie.github.io/publications/) for more details.
+He has authored/co-authored over ten publications in international peer-reviewed journals. More details are available in the [Publications](https://yuhengjie.github.io/publications/).
 
 
 ## News
