@@ -6,7 +6,7 @@ excerpt: 'This work presented an explainable machine learning-driven multi-objec
 date: 2024-06-25
 venue: 'Environmental Science: Nano'
 paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2024/en/d4en00213j'
-citation: 'Hengjie Yu, Shiyu Tang, Eslam M. Hamed, Sam F. Y. Li, Yaochu Jin, Fang Cheng. Optimizing benefit-risk trade-off in nano-agrochemicals through explainable machine learning: Beyond concentration. Environmental Science:Nano, 2024, DOI: 10.1039/D4EN00213J.'
+citation: 'Hengjie Yu, Shiyu Tang, Eslam M. Hamed, Sam F. Y. Li, Yaochu Jin, Fang Cheng. Optimizing benefit-risk trade-off in nano-agrochemicals through explainable machine learning: Beyond concentration. Environmental Science:Nano, 2024, 11, 3374-3389.'
 year: 2024
 ---
 

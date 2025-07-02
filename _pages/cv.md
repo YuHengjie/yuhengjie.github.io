@@ -21,9 +21,10 @@ Work experience
 Research interests
 ======
 * AI for Science
+* Nano-protein interactions for disease diagnosis and nanomedicine
+* Nano-plant-environment interactions for sustainable agriculture
 * Explainable AI
 * LLMs & Multimodal learning
-* Environmental nanotechnology & Nano-enabled agriculture & Nano-protein interactions
 
 
 Publications
@@ -38,12 +39,6 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Awards and honors
 ======
 * 2024.03:  Outstanding Ph.D. Graduate of Zhejiang University
