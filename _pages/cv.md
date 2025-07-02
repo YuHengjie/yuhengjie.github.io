@@ -13,25 +13,26 @@ Education
 ======
 * 2019.09 - 2024.06:  Ph.D.,  College of Biosystems Engineering and Food Science,Zhejiang University 
 * 2023.01 - 2024.01:  Visiting Ph.D. student, Department of Chemistry, National University of Singapore
+* 2015.09 - 2019.06:  B.E., School of Mechanical Engineering, North University of China
 
 Work experience
 ======
-* 2024.07 - present:  Postdoc in Computer Science and Technology, Schoole of Engineering, Westlake University
+* 2025.01 - present:  Assistant Researcher in Department of AI, Schoole of Engineering, Westlake University
+* 2024.07 - present:  Postdoc Fellow in Department of AI, Schoole of Engineering, Westlake University
 
 Research interests
 ======
-* AI for Science
+* AI for Science & Explainable AI
 * Nano-protein interactions for disease diagnosis and nanomedicine
 * Nano-plant-environment interactions for sustainable agriculture
-* Explainable AI
 * LLMs & Multimodal learning
-
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
   
 Talks
 ======

@@ -2,7 +2,7 @@
 title: "Unlocking the Potential of AI Researchers in Scientific Discovery: What Is Missing?"
 collection: publications
 permalink: /publication/2025-03-05-Unlocking the Potential of AI Researchers in Scientific Discovery-What Is Missing
-excerpt: 'This work presented an explainable machine learning-driven multi-objective optimization approach to maximize the performance and minimize undesirable implications of seed nanopriming.'
+excerpt: "We project that AI4Science's share of total publications in Nature Index journals will rise from 3.57% in 2024 to approximately 25% by 2050. This work proposes structured and actionable workflows, alongside key strategies to position AI researchers at the forefront of scientific discovery."
 date: 2025-03-05
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2503.05822'
