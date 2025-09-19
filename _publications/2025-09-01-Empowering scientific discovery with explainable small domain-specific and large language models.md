@@ -6,7 +6,7 @@ excerpt: "This review offers a forward-looking integration of explainable AI (XA
 date: 2025-09-01
 venue: 'Artifical Intelligence Review'
 paperurl: ''
-citation: 'Hengjie Yu, Yizhi Wang, Tao Cheng, Yan Yan, Kenneth A. Dawson, Sam F. Y. Li, Yefeng Zheng, Yaochu Jin. Empowering scientific discovery with explainable small domain-specific and large language models. 2025, Artifical Intelligence Review, Accepted'
+citation: 'Hengjie Yu, Yizhi Wang, Tao Cheng, Yan Yan, Kenneth A. Dawson, Sam F. Y. Li, Yefeng Zheng, Yaochu Jin. Empowering scientific discovery with explainable small domain-specific and large language models. 2025, Artificial Intelligence Review, Accepted.'
 year: 2025
 ---
 
