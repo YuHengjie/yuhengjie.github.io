@@ -1,11 +1,11 @@
 ---
 title: "Empowering scientific discovery with explainable small domain-specific and large language models"
 collection: publications
-permalink: /publication/2025-09-Empowering scientific discovery with explainable small domain-specific and large language models
+permalink: /publication/2025-09-01-Empowering scientific discovery with explainable small domain-specific and large language models
 excerpt: "This review offers a forward-looking integration of explainable AI (XAI)-based research paradigms, encompassing small domain-specific models, large language models (LLMs), and agent-based large-small model collaboration."
-date: 2025-09
+date: 2025-09-01
 venue: 'Artifical Intelligence Review'
-paperurl: 'Accepted'
+paperurl: ''
 citation: 'Hengjie Yu, Yizhi Wang, Tao Cheng, Yan Yan, Kenneth A. Dawson, Sam F. Y. Li, Yefeng Zheng, Yaochu Jin. Empowering scientific discovery with explainable small domain-specific and large language models. 2025, Artifical Intelligence Review, Accepted'
 year: 2025
 ---
