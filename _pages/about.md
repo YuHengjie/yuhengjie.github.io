@@ -22,13 +22,13 @@ He has authored/co-authored over ten publications in international peer-reviewed
 
 
 ## News
-[IEEE Congress on Evolutionary Computation 2025 concluded successfully in Hangzhou!](https://news.sciencenet.cn/htmlnews/2025/6/545952.shtm)
+[Empowering scientific discovery with explainable small domain-specific and large language models](https://doi.org/10.1007/s10462-025-11365-w). Our article is now online in Artificial Intelligence Review！We hope that our research experience in AI and Science can provide some unique perspectives on AI for Science from a knowledge perspective.
 
 [Unlocking the Potential of AI Researchers in Scientific Discovery: What Is Missing?](https://arxiv.org/abs/2503.05822).Drawing on the Diffusion of Innovation theory, we project that AI4Science's share of total publications will rise from 3.57% in 2024 to approximately 25% by 2050. Unlocking the potential of AI researchers is essential for driving this shift and fostering deeper integration of AI expertise into the research ecosystem. To this end, we propose structured and actionable workflows, alongside key strategies to position AI researchers at the forefront of scientific discovery.
 
 Congratulations to Prof. Yaochu Jin for winning the [2025 IEEE Frank Rosenblatt Award](https://corporate-awards.ieee.org/recipients/current-recipients/)!!!
 
-[Optimizing benefit-risk trade-off in nano-agrochemicals through explainable machine learning: Beyond concentration](https://pubs.rsc.org/en/content/articlelanding/2024/en/d4en00213j). Our article is now online in Environmental Science: Nano！
+[Optimizing benefit-risk trade-off in nano-agrochemicals through explainable machine learning: Beyond concentration](https://pubs.rsc.org/en/content/articlelanding/2024/en/d4en00213j). Our article is now online in Environmental Science: Nano！This study proposes an explainable optimization method for accelerating the screening and design of nano-agrochemicals.
 
 ## Contact
 Email: yuhengjie@westlake.edu.cn
