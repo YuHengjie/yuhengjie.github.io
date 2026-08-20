@@ -8,17 +8,9 @@ redirect_from:
 ---
 
 ## Profile
-Dr. Yu's current research centers on Explainable AI (XAI) for Science, specifically investigating nano-protein/plant-environment interactions. His goal is to integrate domain knowledge with advanced AI to create domain datasets and foundational models, ultimately improving our understanding of how nanomaterials interact with biological systems in the contexts of healthcare and sustainable agriculture.
+Dr. Hengjie Yu is an Assistant Researcher in the Department of Artificial Intelligence at Westlake University. He received his Ph.D. from the Department of Biosystems Engineering, Zhejiang University, in 2024. During his doctoral studies, he completed a one-year joint training program in the Department of Chemistry at the National University of Singapore. He subsequently completed his postdoctoral training in the Department of Artificial Intelligence at Westlake University from 2024 to 2026.
 
-## Education background
-Dr. Yu is an Assistant Researcher and Postdoc Fellow in the Department of AI, School of Engineering, Westlake University, working under [Chair Prof. Yaochu Jin](https://en.westlake.edu.cn/faculty/yaochu-jin.html). He earned his Ph.D. in Engineering from College of Biosystems Engineering and Food Science, Zhejiang University in 2024, advised by [Prof. Fang Cheng](https://person.zju.edu.cn/en/fcheng). During his doctoral studies, he was also a visiting Ph.D. student at the Department of Chemistry, National University of Singapore (2023-2024), mentored by [Prof. Sam F. Y. Li](https://www.samlilab.com/).
-
-## Research experience
-Dr. Yu's research initially focused on XAI for nano-plant-environment interactions and nano-enabled agriculture at Zhejiang University. His expertise expanded to integrate XAI with chemistry during his time at the National University of Singapore.
-
-Currently, he is dedicated to AI for Science, specifically applying XAI to challenges in nanotherapeutics, nanoagriculture, and the functional prediction of biomacromolecules. His work synergizes domain knowledge with advanced AI to create datasets and foundational models, aiming to enhance our understanding of nanomaterial and biosystem interactions for safe and efficient applications in healthcare and sustainable agriculture.
-
-He has authored/co-authored over ten publications in international peer-reviewed journals. More details are available in the [Publications](https://yuhengjie.github.io/publications/).
+Dr. Yu’s research lies at the intersection of AI for Science, nano–bio interfaces, and biomacromolecular analysis and design. As an early adopter of explainable AI (XAI) in nano–bio interface research, he integrates wet-lab experimentation, domain knowledge, and advanced AI to investigate nanomaterial–protein/plant–environment interactions. He also applies advanced AI approaches to investigate protein and RNA function and reactivity, with the goal of uncovering their underlying molecular mechanisms. His interdisciplinary work has been published in journals spanning environmental science, nanotechnology, and chemical engineering, including Environmental Science & Technology, Chemical Engineering Journal, Environmental Science: Nano, and Nanoscale, as well as AI and computational venues such as Artificial Intelligence Review, MICCAI and IJCNN. Driven by a passion for interdisciplinary innovation, he is dedicated to leveraging advanced AI methodologies to address important scientific challenges.
 
 
 ## News

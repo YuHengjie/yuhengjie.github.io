@@ -17,14 +17,14 @@ Education
 
 Work experience
 ======
-* 2025.01 - present:  Assistant Researcher in Department of AI, Schoole of Engineering, Westlake University
-* 2024.07 - present:  Postdoc Fellow in Department of AI, Schoole of Engineering, Westlake University
+* 2026.07 - present:  Assistant Researcher in Department of AI, Schoole of Engineering, Westlake University
+* 2024.07 - 2026.06:  Postdoc Fellow in Department of AI, Schoole of Engineering, Westlake University
 
 Research interests
 ======
 * AI for Science
 * AI: LLMs & Multi-agent system & Multimodal learning & Explainable AI
-* Science: Nano-protein/plant-environment interactions & Nanozymes
+* Science: Nanobio interface, Nanotechnology, RNA, Protein
 
 
 Publications
