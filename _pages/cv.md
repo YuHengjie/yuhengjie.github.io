@@ -56,6 +56,7 @@ Awards and honors
 
 Service and leadership
 ======
+* 2026.07: Session Chair, IEEE NANO 2026 
 * 2020.11 - 2021.11:  Student leader of the Intelligent Bio-industrial Equipment Innovation Team (IBE) Innovation team of Zhejiang University
 * 2019.11 - 2020.11:	Student leader of the Artificial Intelligence and Agricultural Big Data Group of the IBE Innovation team of Zhejiang University
 * 2017.09 - 2018.06:	Assistant Class Advisor at North University of China
